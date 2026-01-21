@@ -1,0 +1,37 @@
+---
+author:
+  - name: Kyle O'Connor
+    affiliation:
+      - address: 1124 Kerber Pass
+        city: Chaska, MN
+        country: United States
+        postal-code: 55318
+address:
+  - Mr. Roger Watchorn
+  - 15407 McGinty Road West
+  - Wayzata, MN 55391
+
+subject-title: "Subject"
+opening: "Dear Mr.Watchorn,"
+closing: "Sincerely,"
+
+format:
+  letter-pdf:
+    output-file: cover-letter
+---
+
+My name is Kyle O’Connor, and I am writing to you to express interest in the Trading Data
+& Analytics Intern position for Cargill this upcoming summer.
+
+I am a Minnesota native from Chaska, and I heard about this opportunity from my father who works for Cargill's corporate office in Wayzata. I believe that I possess the unique set of skills that would allow me to succeed in this position.
+
+
+As a current honors student attending the University of Nebraska-Lincoln majoring in both
+Finance and Statistics, I have experience and knowledge in both fields. As a statistics major, I have worked with data in both R and Python, which matches the required and preferred qualifications on the listing. I also have experience in data visualization and statistical modeling methods with both uni-variate and multi-variate data. As a finance major, I have proficient experience in marketing strategies, management skills, and accounting principles, and I am currently studying strategic investment strategies and financial management. 
+
+
+Additionally, I have a passion for learning and further developing my financial and statistical skills, which I believe I can continue doing with the help of this position. I pride myself on my organizational skills and work flexibility, and I’m willing to do whatever is needed to help Cargill continue to succeed as the forefront American agricultural product and solutions provider. 
+
+
+I believe that my unique skill set of statistical experience and financial literacy would be a
+perfect fit for this position and for your team. I want to thank you for considering me for this role, and I hope I get the chance to speak with you again in the future about this opportunity.

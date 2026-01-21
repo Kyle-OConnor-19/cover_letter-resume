@@ -1,0 +1,138 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=14mm
+      - left=15mm
+      - right=15mm
+      - bottom=10mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \usepackage{multirow}
+        \usepackage{tabularx}
+        \usepackage{wrapfig}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+
+<!-- TITLE -->
+
+\begin{huge}\begin{center}{\bf KYLE O'CONNOR}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+
+\begin{center}\href{mailto::koconnor11@huskers.unl.edu}{koconnor11@huskers.unl.edu} ∙ \href{https://github.com/Kyle-OConnor-19}{Github} ∙ \href{https://www.linkedin.com/in/kyle-o’connor-387798332}{LinkedIn} ∙ 
+\end{center}
+\vspace{5pt}
+
+**Summary:** Sophomore Statistics, Finance, and Mathematics Student at the University of Nebraska-Lincoln
+
+**Languages:** **R, Python, Quarto**
+
+<!-- EXPERIENCE : 1ST BULLET-->
+
+\begin{large}{\bf EXPERIENCE}\end{large}
+
+\vspace{3pt}
+
+\hrule
+\begin{tabularx}{\textwidth}{lXX}
+\multirow{2}{*}{\includegraphics[trim=0 21mm 0 0,width=1cm]{images/ccunited.jpeg}} &
+\bf \large\href{https://www.ccunitedsoccer.com/}{CC United} & 
+ \begin{small}(2yr)\end{small} June 2021-August 2022 \\
+& \textit{Recreational Soccer Coach, Recreational Assistant Coach} &
+Chaska, MN
+\end{tabularx}
+\vspace{-0.16cm}
+
+-   Worked as the Head Coach for 2 Recreational Youth Soccer Teams, including planning, scheduling, and running practices, coaching games, and managing relations with players' parents on our portal page.
+
+-   Worked as an Assistant Head Coach for 2022 Summer Season \vspace{2pt}
+
+-   Gained Valuable Skills in Leadership, Management, and Communication
+
+<!-- EXPERIENCE : 2ND BULLET -->
+
+\hrule
+\begin{tabularx}{\textwidth}{lXX}
+\multirow{2}{*}{\includegraphics[trim=0 21mm 0 0,width=1cm]{images/UNL_logo_red}}
+&
+\bf \large\href{https://www.unl.edu/}{University of Nebraska-Lincoln} & 
+ \begin{small}(5mth)\end{small} Aug 2025-December 2025\\
+& \textit{Math Department Learning Assistant} &
+Lincoln, NE
+\end{tabularx}
+\vspace{-0.16cm}
+
+-   Worked as a Learning Assistant for College Trigonometry, assisting in the Classroom during Designated Group Work Time
+
+-   Hosted 90-120 Minute Review Sessions for all Major Exams to review Content and Answer Student Questions
+
+\vspace{7pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+    \begin{flushleft}
+      \includegraphics[trim=0 23mm 0 0,width=0.05\textwidth]{images/UNL_logo_red}
+      \hspace{1 mm} {\bf University of Nebraska-Lincoln --- Lincoln, NE}\\
+    \hspace{0 mm}Pursuing a Bachelor's Degree in Statistics from the College of Agricultural Sciences and Natural Resources, a Bachelor's Degree in Finance from the College of Business, and a Bachelor's Degree in Mathematics from the College of Arts and Sciences
+    \end{flushleft}
+\end{large}
+\vspace{0.05cm}
+
+\vspace{7pt}
+
+<!-- EDUCATIONAL AWARDS: 1ST BULLET -->
+
+\begin{large}
+  {\bf EDUCATIONAL AWARDS}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \hspace{0 mm} {4.0 GPA}\\
+      \hspace{0 mm} {National Merit Finalist Recipient}\\
+      \hspace{0 mm} {AP Scholar Award}\\
+      \hspace{0 mm} {AP Capstone Scholar Award}\\
+    \end{flushleft}
+  \end{multicols}
+\end{large}
+\vspace{0.05cm}
+
+\vspace{7pt}
+
+<!-- SKILLS: 1ST BULLET -->
+
+\begin{large}
+  {\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \hspace{1 mm} {Git/Github}\\
+      \hspace{1 mm} {R}\\
+      \hspace{1 mm} {Python}\\
+      \hspace{1 mm} {Data Analysis}\\
+      \hspace{1 mm} {Microsoft Excel}\\
+      \hspace{1 mm} {Mathematics}\\
+      \hspace{1 mm} {Financial Analysis}\\
+    \end{flushleft}
+  \end{multicols}
+\end{large}
+\vspace{0.05cm}
+
+\vspace{7pt}
