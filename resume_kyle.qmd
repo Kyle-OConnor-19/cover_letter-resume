@@ -61,7 +61,23 @@ Chaska, MN
 
 -   Gained Valuable Skills in Leadership, Management, and Communication
 
-<!-- EXPERIENCE : 2ND BULLET -->
+<!-- EXPERIENCE : 2ND BULLET-->
+
+\hrule
+\begin{tabularx}{\textwidth}{lXX}
+\multirow{2}{*}{\includegraphics[trim=0 21mm 0 0,width=1cm]{images/target.png}} &
+\bf \large\href{https://www.target.com/}{Target} & 
+Chaska, MN
+ \begin{small}(2yr 9 mth)\end{small} Nov 2022-August 2024 \\
+& \textit{Checkout and Sales Associate}
+\end{tabularx}
+\vspace{-0.16cm}
+
+-   Checkout and Sales Associate | Worked Cash Register, Online Order Fulfillment, and General On-Floor Tasks as Needed
+
+-   Gained Valuable Skills in Customer Service, Interpersonal Skills, and Conflict-Resolution
+
+<!-- EXPERIENCE : 3RD BULLET -->
 
 \hrule
 \begin{tabularx}{\textwidth}{lXX}
@@ -104,10 +120,12 @@ Lincoln, NE
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}
-      \hspace{0 mm} {4.0 GPA}\\
+      \hspace{0 mm} {4.0 Cumulative GPA}\\
       \hspace{0 mm} {National Merit Finalist Recipient}\\
-      \hspace{0 mm} {AP Scholar Award}\\
-      \hspace{0 mm} {AP Capstone Scholar Award}\\
+      \hspace{0 mm} {3x UNL Dean's List}\\
+      \hspace{0 mm} {AP Scholar}\\
+      \hspace{0 mm} {AP Capstone Scholar}\\
+      \hspace{0 mm} {2024 CHS Louis Armstrong Jazz Award}\\
     \end{flushleft}
   \end{multicols}
 \end{large}
@@ -124,12 +142,17 @@ Lincoln, NE
   \begin{multicols}{2}
     \begin{flushleft}
       \hspace{1 mm} {Git/Github}\\
+      \hspace{1 mm} {Quarto}\\
       \hspace{1 mm} {R}\\
       \hspace{1 mm} {Python}\\
-      \hspace{1 mm} {Data Analysis}\\
+      \hspace{1 mm} {Data Analytics}\\
+      \hspace{1 mm} {Statistical Modelling and Visualization}\\
       \hspace{1 mm} {Microsoft Excel}\\
+      \hspace{1 mm} {Microsoft Word}\\
+      \hspace{1 mm} {Microsoft Powerpoint}\\
       \hspace{1 mm} {Mathematics}\\
       \hspace{1 mm} {Financial Analysis}\\
+      \hspace{1 mm} {Time Management}\\
     \end{flushleft}
   \end{multicols}
 \end{large}
